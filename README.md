@@ -13,7 +13,7 @@ the presence of a yarn.lock file.
 ## Set up
 
 ```bash
-npm install --save-dev subpackage
+npm install --save-dev @ghnacker/subpackage
 ```
 
 To use `subpackage` commands, you will first need to add a `subPackages` entry
@@ -47,6 +47,7 @@ With the configuration above in your parent project, you can type `npm run build
 
 ## Related Projects
 
+ * [subpackage](https://github.com/dupski/subpackage)
  * [run-bin](https://github.com/dupski/run-bin)
  * [cross-env](https://github.com/kentcdodds/cross-env)
 
