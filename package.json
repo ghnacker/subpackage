@@ -16,7 +16,7 @@
   },
   "homepage": "https://github.com/ghnacker/subpackage",
   "dependencies": {
-    "cross-spawn": "^7.0.2",
+    "cross-spawn": "^7.0.3",
     "has-yarn": "^2.1.0"
   }
 }
